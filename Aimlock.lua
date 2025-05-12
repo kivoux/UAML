@@ -1,4 +1,4 @@
-﻿-- Univerasl Aimlock (i made it for Valley Prison icl)
+﻿-- Univerasl Aimlock made by Kivoux <3
 -- Features:
 -- Locks using BOTTOM of mouse cursor (+20px) this is for offset reasonings
 -- Toggle on/off with GUI button
